@@ -1,2 +1,2 @@
 # faq-pl
-Redirect from faq-pl site to the notion page 
+Redirect from faq-pl.ovh to the notion page.
